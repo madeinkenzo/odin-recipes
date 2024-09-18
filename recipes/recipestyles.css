@@ -1,4 +1,13 @@
+
+
+.text {
+    max-width: 500px;
+    margin: auto;
+}
+
+
 .image {
     max-width: 800px;
     margin: auto;
 }
+
