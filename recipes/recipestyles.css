@@ -7,7 +7,6 @@
 
 
 .image {
-    max-width: 800px;
-    margin: auto;
+    width:2px; /* you can use % */
+    height: auto;
 }
-
