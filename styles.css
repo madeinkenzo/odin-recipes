@@ -1,0 +1,37 @@
+.heading {
+    text-align: center;
+    margin: 0 auto;
+    padding: 0;
+    font-size: 120px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.list {
+    font-size: 50px;
+    list-style-type: none;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0;
+    text-decoration: none;
+}
+
+.list li span {
+    background-color: grey;
+    display: inline-block;
+    padding: 10px;
+    margin-bottom: 30px;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.list li span:hover {
+    text-decoration: none;
+    transform: scale(150%);
+    background-size: 50%;
+    background-color: black;
+}
+
+a {
+    text-decoration: none;
+    color: White;
+}
