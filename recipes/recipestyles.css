@@ -1,4 +1,6 @@
-
+.title {
+    text-align: center;
+}
 
 .text {
     max-width: 500px;
@@ -7,6 +9,9 @@
 
 
 .images {
-    width:600px; /* you can use % */
+    display: block; /* Makes the image a block element */
+    margin-left: auto; /* Auto margins to center */
+    margin-right: auto;
+    width:500px; /* you can use % */
     height: auto;
 }
